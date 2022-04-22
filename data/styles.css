@@ -63,6 +63,14 @@
 }
 ._线段 {
 }
+._连接 {
+  font-family:'Arial-BoldMT', 'Arial Bold', 'Arial', sans-serif;
+  font-weight:700;
+  font-style:normal;
+  font-size:14px;
+  color:#909399;
+  text-align:left;
+}
 .primary_button {
   color:#FFFFFF;
 }
@@ -102,9 +110,13 @@
   font-style:normal;
   color:#FF0066;
 }
+._图片 {
+}
 .placeholder {
 }
 .box_2 {
+}
+.box_3 {
 }
 .ellipse {
 }
@@ -116,5 +128,11 @@
   color:#999999;
 }
 .image1 {
+}
+.label1 {
+  font-size:14px;
+  text-align:left;
+}
+.ellipse1 {
 }
 textarea, select, input, button { outline: none; }
