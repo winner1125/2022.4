@@ -124,6 +124,8 @@
 }
 .form_disabled1 {
 }
+.shape {
+}
 .form_hint {
   color:#999999;
 }
@@ -134,5 +136,7 @@
   text-align:left;
 }
 .ellipse1 {
+}
+.icon {
 }
 textarea, select, input, button { outline: none; }
